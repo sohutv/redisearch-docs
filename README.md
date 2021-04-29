@@ -1,1 +1,1 @@
-## RediSearch 官当文档翻译
+## RediSearch [官方文档](https://oss.redislabs.com/redisearch/)翻译
