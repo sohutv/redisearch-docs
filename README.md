@@ -1,9 +1,11 @@
 RediSearch[官方文档](https://oss.redislabs.com/redisearch/)翻译
 =========
 
-翻译RediSearch[官方文档](https://oss.redislabs.com/redisearch/)和[技术Blog](https://redislabs.com/blog/tech-blog/), 搜狐视频基础架构组出品。
+翻译RediSearch[官方文档](https://oss.redislabs.com/redisearch/)和[技术Blog](https://redislabs.com/blog/tech-blog/)，搜狐视频基础架构组出品，如有问题，欢迎指出。
 
 联系人：
+----
+
   - 张益军 <yijunzhang@sohu-inc.com>
   - 陈实 <shichen@sohu-inc.com>
   - [吴文瑞](https://github.com/wwr) [曹茹](https://github.com/cassie-cao)
